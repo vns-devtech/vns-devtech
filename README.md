@@ -130,31 +130,6 @@ A technology project focused on developing a practical digital solution with an 
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vns-devtech&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vns-devtech&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vns-devtech&theme=transparent&hide_border=true" />
-</p>
-
----
-
-# 🎯 Areas of Interest
-
-```text
-Artificial Intelligence       ████████████████████
-Machine Learning              ███████████████████
-Computer Vision               ██████████████████
-Full-Stack Development        █████████████████
-IoT & Intelligent Systems     ████████████████
-Networking                    ███████████████
-Data Analytics                ███████████████
-```
-
 ---
 
 # 🌱 Learning & Growth
