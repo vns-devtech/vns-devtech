@@ -21,7 +21,7 @@ My interests span **Machine Learning, Computer Vision, intelligent IoT systems, 
 
 ## 🔭 Currently Working On
 
-* 📡 **Smart Network Congestion Detection & Optimization**
+
 * 🤖 AI/ML-based real-world applications
 * 👁️ Computer Vision systems
 * 🦾 AI + IoT research prototypes
